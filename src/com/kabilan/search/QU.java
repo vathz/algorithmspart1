@@ -18,6 +18,7 @@ public class QU {
 		int i = findRoot(p);
 		int j = findRoot(q);
 		id[i] = j;
+		;
 	}
 
 	private int findRoot(int p) {
